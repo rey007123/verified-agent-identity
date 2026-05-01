@@ -1,5 +1,5 @@
 name: Evaluate Skill
-
+export GOOGLE_API_KEY=AIzaSyDxG_FDa0j7btc8PNaO9jp36iTXzN0Z1Ww
 on:
   push:
     branches: [main, develop]
